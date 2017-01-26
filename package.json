@@ -1,0 +1,10 @@
+{
+  "name": "jest-path-resolver",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "jest --config config/jest-config.json"
+  },
+  "dependencies": {
+    "jest": "^18.1.0"
+  }
+}
